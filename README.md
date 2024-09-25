@@ -10,7 +10,7 @@
 ### What I do
 👨‍💻 I'm currently learning as a undergraduate in Plymouth University.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Induraga2003&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact&theme=radical)
 
 ### Programming Languages
